@@ -1,4 +1,4 @@
-![](./src/assets/logo.svg)
+<img src="./src/assets/logo.svg" alt="lovebag_logo" width="300" style="display: block; margin-left: auto; margin-right: auto;">
 
 # Getting Started with Create React App
 
